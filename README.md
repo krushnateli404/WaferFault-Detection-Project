@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://forthebadge.com/images/badges/made-with-python.svg" >
-</p>
+
 
 
 <h1 align="center">Wafer Fault Detection <h1>
